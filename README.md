@@ -37,6 +37,13 @@ My background is mainly in modern C++, Windows development, and engineering-focu
 - Networking
 - Cross-platform software design
 
+## Currently Learning
+
+- Linux I/O and event-driven programming
+- Modern C++ concurrency
+- Networking and backend fundamentals
+- Better project presentation for international applications
+
 ## What I'm Working On
 
 I am currently focused on:
