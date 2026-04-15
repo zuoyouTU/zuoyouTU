@@ -1,4 +1,4 @@
-# Hi, I'm Cequn Yang
+# Hi, I'm Cequn
 
 C++ Software Engineer with 8 years of experience in desktop software, system development, and cross-platform application design.
 
