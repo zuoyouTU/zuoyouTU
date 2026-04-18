@@ -19,8 +19,8 @@ My background is mainly in modern C++, Windows development, and engineering-focu
 - C++17 / C++20
 - Python
 - C
+- Lua
 - JavaScript
-- PHP
 
 ### Frameworks / Tools
 - MFC
